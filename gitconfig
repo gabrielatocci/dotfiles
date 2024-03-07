@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gbr.tocci@gmail.com
+	name = gabrielatocci
